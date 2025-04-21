@@ -11,3 +11,7 @@ The code measures the average CPU cycles required to execute the ```CPUID``` ins
 
 # PoC:
 ![image](https://github.com/user-attachments/assets/5bb98ad9-88c4-47f4-9d2d-7b6168d28eca)
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
